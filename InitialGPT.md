@@ -82,9 +82,9 @@ Here is the step-by-step installation. Click [here](https://github.com/lemon-521
 
 <img src="../../imgs/InputGen/4add.png" alt="4add" width="70%" height="70%" />
 
-<img src="../../imgs/InputGen/InitialGPT333.png" alt="InitialGPT333" width="70%" height="70%" />
+<img src="./imgs/inputgen/InitialGPT333.png" alt="InitialGPT333" width="70%" height="70%" />
 
-<img src="../../imgs/InputGen/6installanyway.png" alt="6installanyway" width="70%" height="70%" />
+<img src="./imgs/InputGen/6installanyway.png" alt="6installanyway" width="70%" height="70%" />
 
 
 ## InitialGPT Tutorial
